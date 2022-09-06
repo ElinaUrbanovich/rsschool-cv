@@ -27,7 +27,7 @@ function solution(str){
 ```
 
 ### Experience
-Currently working on a start-up project building backend for a mobile application desiged for efficient charging of electric vehicles.
+Currently working on a start-up project building backend for a mobile application desiged for efficient charging of electric vehicles. Technologies: Golang, go-chi, Kibana, Grafana, Microsoft Azure, Git
 
 ### Education
 Traineeship: Andersenlab, Golang developer
